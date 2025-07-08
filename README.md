@@ -3,7 +3,7 @@
 When configuring a new install of IntelliJ, these are the settings I typically change.
 
 * Settings > Editor > Font > Size 16.0
-* Settings > Tools >Terminal > Font Settings > Size > 16.0
+* Settings > Tools > Terminal > Font Settings > Size > 16.0
 * Install Zenburn theme
   * Editor > Color Scheme > Color Scheme Font > Size 16.0
   * Editor > Color Scheme > General > Code > injected language fragment > uncheck the `Background` checkbox
@@ -12,4 +12,5 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 * Behavior > Open files with single click
 * Behavior > Always select opened file
 * Settings > Editor > General > Change font size with Command+Mouse Wheel
-* install the Plugin Git Modal Commit Interface, then Settings > Advanced Settings > Version Control > Use modal commit interface for Git and Mercurial
+* Install/Enable the Plugin Git Modal Commit Interface, then Settings > Advanced Settings > Version Control > Use modal commit interface for Git and Mercurial
+* Settings > Advanced Settings > Version Control > uncheck box for 'Open Diff as Editor tab'
