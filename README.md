@@ -4,7 +4,9 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 
 * Settings > Editor > Font > Size 16.0
 * Settings > Tools >Terminal > Font Settings > Size > 16.0
-* Install Zenburn theme, then Editor > Color Scheme > Color Scheme Font > Size 16.0
+* Install Zenburn theme
+  * Editor > Color Scheme > Color Scheme Font > Size 16.0
+  * Editor > Color Scheme > General > Code > injected language fragment > uncheck the `Background` checkbox
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
 * Right click bottom corner > Memory Indicator
 * Behavior > Open files with single click
