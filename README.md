@@ -14,3 +14,4 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 * Settings > Editor > General > Change font size with Command+Mouse Wheel
 * Install/Enable the Plugin Git Modal Commit Interface, then Settings > Advanced Settings > Version Control > Use modal commit interface for Git and Mercurial
 * Settings > Advanced Settings > Version Control > uncheck box for 'Open Diff as Editor tab'
+* Help > Change memory settings > Maximum Heap Size > 4096 (or higher)
