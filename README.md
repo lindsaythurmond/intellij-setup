@@ -8,6 +8,9 @@ When configuring a new install of IntelliJ, these are the settings I typically c
   * Editor > Color Scheme > Color Scheme Font > Size 16.0
   * Editor > Color Scheme > General > Code > injected language fragment > uncheck the `Background` checkbox
   * Editor > Color Scheme > Diff & Merge > Changed lines > Conflict > change to 506B84 (previously 94BFF3)
+  * Editor > Color Scheme > Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
+<img width="593" height="19" alt="image" src="https://github.com/user-attachments/assets/616d2c27-251b-4f51-a091-707383513afb" />
+
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
 * Right click bottom corner > Memory Indicator
 * Behavior > Open files with single click
