@@ -7,6 +7,7 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 * Install Zenburn theme
   * Editor > Color Scheme > Color Scheme Font > Size 16.0
   * Editor > Color Scheme > General > Code > injected language fragment > uncheck the `Background` checkbox
+  * Editor > Color Scheme > General > Identifier under caret > check box for `Background` > set to 787676 (previously had no value)
   * Editor > Color Scheme > Diff & Merge > Changed lines > Conflict > change to 506B84 (previously 94BFF3)
   * Editor > Color Scheme > Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
