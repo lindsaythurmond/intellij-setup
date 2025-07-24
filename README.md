@@ -10,6 +10,7 @@ When configuring a new install of IntelliJ, these are the settings I typically c
   * Editor > Color Scheme > General > Identifier under caret > check box for `Background` > set to 787676 (previously had no value)
   * Editor > Color Scheme > Diff & Merge > Changed lines > Conflict > change to 506B84 (previously 94BFF3)
   * Editor > Color Scheme > Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
+* Editor > General > Breadcrumbs > under `Show breadcrumbs` which should already be checked > check the boxes for `XML` and `JSON`
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
 * Right click bottom corner > Memory Indicator
 * Behavior > Open files with single click
