@@ -4,13 +4,15 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 
 * Settings > Editor > Font > Size 16.0
 * Settings > Tools > Terminal > Font Settings > Size > 16.0
-* Install Zenburn theme
-  * Editor > Color Scheme > Color Scheme Font > Size 16.0
-  * Editor > Color Scheme > General > Code > injected language fragment > uncheck the `Background` checkbox
-  * Editor > Color Scheme > General > Identifier under caret > check box for `Background` > set to 787676 (previously had no value)
-  * Editor > Color Scheme > Diff & Merge > Changed lines > Conflict > change to 506B84 (previously 94BFF3)
-  * Editor > Color Scheme > Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
-  * Editor > Color Scheme > General > Code > TODO defaults > Foreground > set to F2F591 (previously 7F9F7F)
+* Install [Zenburn theme]([url](https://plugins.jetbrains.com/plugin/17938-zenburn))
+* Editor > Color Scheme >
+  * Color Scheme Font > Size 16.0
+  * General > Code > injected language fragment > uncheck the `Background` checkbox
+  * General > Identifier under caret > check box for `Background` > set to 787676 (previously had no value)
+  * Diff & Merge > Changed lines > Conflict > change to 506B84 (previously 94BFF3)
+  * Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
+  * General > Code > TODO defaults > Foreground > set to F2F591 (previously 7F9F7F)
+  * Debugger > Execution point > Background > change to 627FA0 (previously 94BFF3)
 * Editor > General > Breadcrumbs > under `Show breadcrumbs` which should already be checked > check the boxes for `XML` and `JSON`
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
 * Right click bottom corner > Memory Indicator
