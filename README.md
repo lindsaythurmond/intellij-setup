@@ -4,7 +4,7 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 
 * Settings > Editor > Font > Size 16.0
 * Settings > Tools > Terminal > Font Settings > Size > 16.0
-* Install [Zenburn theme](https://plugins.jetbrains.com/plugin/17938-zenburn)
+* Install [Zenburn theme](https://plugins.jetbrains.com/plugin/17938-zenburn) plugin
 * Editor > Color Scheme >
   * Color Scheme Font > Size 16.0
   * General > Code > injected language fragment > uncheck the `Background` checkbox
