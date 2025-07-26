@@ -23,5 +23,5 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 * Settings > Advanced Settings > Version Control > uncheck box for 'Open Diff as Editor tab'
 * Help > Change memory settings > Maximum Heap Size > 4096 (or higher)
 * Settings > Editor > Live Templates > + > Live Template > (this creates a new template under `User`) > set the `Abbreviation` and `Description` to `todo` > Set the template text to `// TODO $DATE$: $END$`
-  * `Edit Variables...` > Set the `Expression` for the `DATE` variable to `date()`
+  * `Edit Variables...` > Set the `Expression` for the `DATE` variable to `date()` > check box for `Skip if defined`
   * Click `Define` under `No application contexts.` > select `Everywhere` (or customize if you prefer)
