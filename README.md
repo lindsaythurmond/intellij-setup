@@ -25,3 +25,7 @@ When configuring a new install of IntelliJ, these are the settings I typically c
 * Settings > Editor > Live Templates > + > Live Template > (this creates a new template under `User`) > set the `Abbreviation` and `Description` to `todo` > Set the template text to `// TODO $DATE$: $END$`
   * `Edit Variables...` > Set the `Expression` for the `DATE` variable to `date()` > check box for `Skip if defined`
   * Click `Define` under `No application contexts.` > select `Everywhere` (or customize if you prefer)
+ 
+
+Depending on automated rules
+* Settings > Editor > Code Stype > Java > General > Class count to use import with 1*1: 999 (so it never uses *)
