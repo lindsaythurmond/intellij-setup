@@ -30,4 +30,4 @@ When configuring a new install of IntelliJ, these are the settings I typically c
  
 
 Depending on automated rules
-* Settings > Editor > Code Stype > Java > General > Class count to use import with 1*1: 999 (so it never uses *)
+* Settings > Editor > Code Style > Java > General > Imports tab > `Class count to use import with '*'`: 999 (so it never uses *)
