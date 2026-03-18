@@ -13,7 +13,7 @@ When configuring a new install of IntelliJ, these are the settings I typically c
   * Language Defaults > Classes > Class reference > Foreground > change to 4F8D8D (previously 366060)
   * General > Code > TODO defaults > Foreground > set to F2F591 (previously 7F9F7F)
   * Debugger > Execution point > Background > change to 627FA0 (previously 94BFF3)
-* Editor > General > Breadcrumbs > under `Show breadcrumbs` which should already be checked > check the boxes for `XML` and `JSON`
+* Editor > General > Breadcrumbs > under `Show breadcrumbs` which should already be checked > check the boxes for `XML`, `JSON`, and `YAML`
 * Editor > Inlay Hints > Types > Java > Check the `Implicit types` checkbox
 * Appearance & Behavior > Accessibility > Use custom font > Size > 15
 * Right click bottom corner > Memory Indicator
